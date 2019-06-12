@@ -3,7 +3,7 @@ Test repo for renaming.
 
 This repository has been renamed
 from [tezd](https://github.com/doekman/tezd)
-  to __[test](https://github.com/doekman/test)__¹
+  to [test](https://github.com/doekman/test)¹
   to [tesd](https://github.com/doekman/tesd)
   to [You-are-so-lame](https://github.com/doekman/You-are-so-lame)
   to [You-are-the-best-and-I-like-you](https://github.com/doekman/You-are-the-best-and-I-like-you).
